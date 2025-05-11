@@ -1,2 +1,2 @@
 # ejemplos-python
-clase 1
+Ejercicios desafio
