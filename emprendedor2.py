@@ -17,7 +17,6 @@ u1 = float(input ("Ingresa el numero de usuarios Normal: "))
 u2 = float(input ("Ingresa el numero de usuarios Premiun : "))
 gt = float(input ("Ingresa los gastos totales : "))
 
-#area= (m.sqrt())
 
 ## utilidad
 ut = ((p1 + p2) * (u1 + u2) - gt)
